@@ -2,7 +2,7 @@
 <div v-if="job">
   <h1>{{job.title}}</h1>
   <p>the {{job.id}}</p>
-  <p>{{job.detail}}</p>
+  <p>{{job.details}}</p>
 </div>
   
 </template>
